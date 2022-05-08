@@ -209,4 +209,4 @@ client.on('messageCreate', message => {
 })
 
 
-client.login('OTY2MzI5MDYyMDc3MzkwODU4.YmAKEQ.EXOA-gHNThqkoj9sIO3HtNIFK9g');
+client.login('hold');
